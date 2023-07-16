@@ -1,13 +1,1 @@
 # Peer-graded-Assignment-Week-5-GANs
- "This notebook is a part of my first project required by Peer-graded Assignment: Week 5: GANs.\n",
-    "\n",
-    "Data source: [Board Games - Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-12)\n",
-    "\n",
-    "In this notebook, I will clean the data and explore the relationship between the target (game average rating) and potential predictors. I will also construct new features from the existing data when possible and perform hypothesis tests.\n",
-    "\n",
-    "Notebook Contents:\n",
-    "> 1. Data Overview\n",
-    "> 2. Data Cleaning and Feature Engineering: Categorical Data\n",
-    "> 3. Data Cleaning and Feature Engineering: Numeric Data\n",
-    "> 4. Hypothesis Testing\n",
-    "\n",
